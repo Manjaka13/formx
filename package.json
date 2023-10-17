@@ -1,0 +1,28 @@
+{
+	"name": "formx",
+	"version": "0.1.0",
+	"description": "Various form elements as a library",
+	"scripts": {
+		"build": "vite build && tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Manjaka13/formx.git"
+	},
+	"keywords": [
+		"firebase",
+		"wrapper",
+		"react"
+	],
+	"author": "harijaona <harijaona@expat.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^18.2.28",
+		"react": "^18.2.0",
+		"typescript": "^5.2.2",
+		"vite": "^4.4.11"
+	},
+	"peerDependencies": {
+		"react": "^18.2.0"
+	}
+}
